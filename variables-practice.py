@@ -1,5 +1,5 @@
-# Student name
-# 04 SEP 2024
+# Joshua Phillips
+# 06 SEP 2024
 # Variables Practice
 
 # Demonstrate in this script that you know how to:
@@ -18,9 +18,11 @@
 # Define a variable called favorite_singer and assign it the string value that is your favorite singer (using a pair of double quotes)
 # Define a variable called greeting and assign it a string value you'd use to greet someone (Good morning, Good afternoon, etc.)
 # Use the print function to print the value of one of three variables you created in Part 1
+school = 'Career Tech'
+fav_singer = 'Unlike Pluto'
+greeting = 'Greetings Earth Worms'
 
-
-
+print('fav_singer')
 
 # Part 2 / Working with Numbers (Numeric Data)
 # Define a variable called my_age and assign it your age as an integer
