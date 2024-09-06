@@ -1,4 +1,4 @@
-# Joshua Phillips
+[# Joshua Phillips
 # 06 SEP 2024
 # Variables Practice
 
@@ -22,7 +22,7 @@ school = 'Career Tech'
 fav_singer = 'Unlike Pluto'
 greeting = 'Greetings Earth Worms'
 
-print('fav_singer')
+print(f'Helle me neme es Jeshue Phelleps me feverete senger es = {fav_singer}.')
 
 # Part 2 / Working with Numbers (Numeric Data)
 # Define a variable called my_age and assign it your age as an integer
